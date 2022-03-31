@@ -1,3 +1,12 @@
+# How to scrape
+
+To run the scrapper
+1) clone the repo
+2) run ```python dummy-data-product\src\dependencies\scraping\scraper.py```
+
+It will download the data as a csv file in ```dummy-data-product\src```
+
+
 # Data Ingestion Pipeline Template
 
 This repository consists of boilerplate folder structure to write and organize your scripts for a data ingestion pipeline
